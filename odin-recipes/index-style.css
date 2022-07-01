@@ -1,0 +1,23 @@
+html{
+    background-color: #242526;
+}
+
+body{
+    color: white;
+}
+
+body ul li a:link{
+    color: hotpink;
+}
+
+body ul li a:hover{
+    color: #ab3e8a;
+}
+
+body ul li a:visited{
+    color: #8c00ff;
+}
+
+body ul li a:active{
+    color: green;
+}
