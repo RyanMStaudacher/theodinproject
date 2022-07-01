@@ -2,7 +2,14 @@ html{
     background-color: #242526;
 }
 
-body{
+body h1{
+    color: white;
+    text-align: center;
+    background-color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body ul{
     color: white;
 }
 
